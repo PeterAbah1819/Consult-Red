@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is to test that all the links at the footer work as requeired from the End User's perspective.</description>
+   <name>Footer Tests</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a996410-10fa-4dfa-95d0-ec45fc44afb3</testCaseGuid>
+</TestCaseEntity>
